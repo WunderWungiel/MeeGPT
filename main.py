@@ -94,8 +94,8 @@ def main():
 
     clean()
 
-    folder = "."
-    #folder = "/opt/MeeGPT"
+    #folder = "."
+    folder = "/opt/MeeGPT"
     if not os.path.isdir(folder):
         if os.path.isfile(folder):
             os.remove(folder)
