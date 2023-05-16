@@ -151,7 +151,7 @@ def main():
                 continue
             if answer == "1":
                 model_changer()
-                print(" ")
+                clean()
                 options_list()
                 continue
             elif answer == "2":
