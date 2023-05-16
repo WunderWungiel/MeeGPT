@@ -4,6 +4,8 @@
 
 ## Installing
 
+The easiest way to install is to use [MeeShop](https://github.com/WunderWungiel/MeeShop). Alternatively, proceed with steps below:
+
 You need to have [Developer Mode](http://wunderwungiel.pl/MeeGo/posts/devmode-22.04.2023.html) enabled and [Aegis-hack](https://talk.maemo.org/showthread.php?t=90750).
 Python needs to be installed. Run **Terminal**, and type following commands:
 
@@ -19,6 +21,7 @@ Run the **Terminal** again, and type following commands:
     cd /home/user/MyDocs
     aegis-dpkg -i meegpt_RELEASE_armel.deb
     (replace RELEASE with the proper number, i.e. 0.0.1)
+
 If you don't see any errors, you're ready to use MeeGPT!
 
 ## How to use
