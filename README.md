@@ -1,6 +1,7 @@
 # MeeGPT
 
 **MeeGPT** is a **first**, **brand-new**, **working** ChatGPT client for Nokia N9 / N950 devices running MeeGo Harmattan.
+[Join our Linux Mobile World group](https://t.me/linuxmobile_world).
 
 ## Installing
 
