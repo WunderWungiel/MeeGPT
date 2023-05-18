@@ -44,6 +44,6 @@ To **go back** (almost) anytime, press **0** when MeeGPT asks you for something.
 
 ## Credits
 
- - [IarChep / Ярослав](https://t.me/iaroslavchep) - icon, Russian translation and inexhaustible help and ingenuity!
+ - [IarChep / Ярослав](https://t.me/iaroslavchep) - icon and inexhaustible help and ingenuity!
  - [Python](https://python.org) for making an easy to learn, power programming language
  - [Linux Mobile World](https://t.me/linuxmobile_world) community for testing this app
