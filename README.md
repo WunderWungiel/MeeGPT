@@ -1,6 +1,6 @@
 # MeeGPT
 
-**MeeGPT** is a **first**, **brand-new**, **working** ChatGPT client for Nokia N9 / N950 devices running MeeGo Harmattan.
+**MeeGPT** is a Gemini AI client for Nokia N9 / N950 devices running MeeGo Harmattan.
 
 [Join our Linux Mobile World group](https://t.me/linuxmobile_world).
 
@@ -29,12 +29,11 @@ If you don't see any errors, you're ready to use MeeGPT!
 ## How to use
 
 **MeeGPT** is a **CLI** app with no native **GUI**. However, it has been designed to make the usage as easy as possible! You don't need to enter any commands.
-Just **run MeeGPT** from applications menu while being connected to Internet. You will see a retro-style menu with few options, like **Change model** and "**Your message**" prompt. Below is a quick description of functions.
+Just **run MeeGPT** from applications menu while being connected to Internet. You will see a retro-style menu with few options, like "**Your message**" prompt. Below is a quick description of functions.
 
-- **Change model** - change OpenAI model to GPT-3.5 or GPT-4
 - **About** - name suggest the action.
 
-Type any message to send it to ChatGPT, or press desired number to use a selected option.
+Type any message to send it to Gemini, or press desired number to use a selected option.
 
 To **go back** (almost) anytime, press **0** when MeeGPT asks you for something.
 
